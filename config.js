@@ -1,2 +1,1 @@
-// Вставьте данные из Supabase: Project Settings → API
-window.MF={url:"",key:""};
+   window.MF={url:"https://xxxxx.supabase.co",key:"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InlrcGNkemlwaml5cmlxcXhrdXVqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEzNjEyNDAsImV4cCI6MjEwNjkzNzI0MH0.DgxXhMZ9S6a3DoPLhGL6wdX1ztbScYUmMbz2MdlHjpE"};
